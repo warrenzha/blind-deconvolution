@@ -1,2 +1,2 @@
-# blind-deconvolution
+# Blind Deconvolution
 Implementation of ...
