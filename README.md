@@ -9,10 +9,14 @@ A concise explanation can be found [here](https://ieeexplore.ieee.org/stamp/stam
 
 ## Usage
 
-* Basic blind deconvolution: run [blind_deconv_convex.m](https://github.com/wyzhao030/blind-deconvolution/blob/main/src/blind_deconv_convex.m)
-* Blind deconvolution in 2D: run [blind2d.m](https://github.com/wyzhao030/blind-deconvolution/blob/main/src/blind2d.m)
+* Basic blind deconvolution: [blind_deconv_convex.m](https://github.com/wyzhao030/blind-deconvolution/blob/main/src/blind_deconv_convex.m)
+* Blind deconvolution in 2D: [blind2d.m](https://github.com/wyzhao030/blind-deconvolution/blob/main/src/blind2d.m)
 
 Some output sample figures can be found in `figures` folder.
+
+**Result:**
+
+<img src="figures/sparse.png" style="zoom:45%;" /> <img src="figures/dense.png" style="zoom:45%;" />
 
 ## Citation
 
